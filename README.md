@@ -18,7 +18,9 @@
 
 ### Connect with Me :
 
-<a href="https://t.me/FadhlFadhili" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-fff6e8?style=for-the-badge&logo=Telegram&logoColor=fff6e8&logoSize=20&color=1d78a5"/></a>
+<a href="https://www.linkedin.com/in/fadhl-al-fadhili-4536613b3/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
